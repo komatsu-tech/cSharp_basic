@@ -17,17 +17,17 @@ namespace helloWorld
         static void Main(string[] args)
         {
 
-            //helloWorld();
+            helloWorld();
             //arrayStudy();
             //rdTxt();
-            enumBehavior();
+            //enumBehavior();
 
         }
 
         static void helloWorld()
         {
-            Console.WriteLine("hello, C# world!\n");
-            Console.WriteLine("goodbye, C# world!\n");
+            Console.WriteLine("hello, fucking C# world!\n");
+            Console.WriteLine("goodbye, absofuckinglutely wonderful C# world!\n");
 
             Console.Read();
         }
@@ -79,8 +79,8 @@ namespace helloWorld
 
         static void enumBehavior()
         {
-            Console.WriteLine((enumValue)3);
-            Console.WriteLine((int)(enumValue)3);
+            Console.WriteLine((enumValue)2);
+            Console.WriteLine((int)(enumValue)2);
             Console.ReadLine();
 
         }
